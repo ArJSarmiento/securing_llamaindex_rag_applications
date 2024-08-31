@@ -1,0 +1,7 @@
+chroma_db/
+.env
+.env.*
+
+requirements.txt
+.idea/
+*.pyc
